@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "name": "Atul Mathur",
+      "bun": "amathur3",
+      "empid": "58471",
+      "phone": "9711392960",
+      "id": 1
+    },
+    {
+      "name": "KK Sharma",
+      "bun": "kksharma",
+      "empid": "34561",
+      "phone": "1234567890",
+      "id": 2
+    },
+    {
+      "name": "Aman Singh",
+      "bun": "aman2",
+      "empid": "58471",
+      "phone": "09711392960",
+      "id": 3
+    },
+    {
+      "name": "Richa",
+      "bun": "richa",
+      "empid": "123457",
+      "phone": "9999999999",
+      "id": 4
+    }
+  ]
+}

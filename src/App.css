@@ -36,3 +36,28 @@
     transform: rotate(360deg);
   }
 }
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.menu ul {
+  background-color: rgb(168, 168, 168);
+  margin: 0;
+}
+
+.menu li {
+  font-family: sans-serif;
+  font-style: italic;
+  color: #61dafb;
+  font-size: 1.2em;
+  line-height: 50px;
+  height: 60px;
+  border-bottom: 1px solid #888;
+}
+
+.emp {
+  font-style: oblique;
+  text-align: center;
+}
